@@ -1,7 +1,7 @@
 # Outsider
 iOS Side Menu
 
-![](sample-1.gif)
+![](sample1.gif)
 
 <a name="desc"></a>
 ## 1. Configurations
